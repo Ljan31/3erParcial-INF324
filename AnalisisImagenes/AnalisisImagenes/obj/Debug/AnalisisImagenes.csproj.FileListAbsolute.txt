@@ -1,0 +1,9 @@
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\bin\Debug\AnalisisImagenes.exe.config
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\bin\Debug\AnalisisImagenes.exe
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\bin\Debug\AnalisisImagenes.pdb
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\obj\Debug\AnalisisImagenes.csprojResolveAssemblyReference.cache
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\obj\Debug\AnalisisImagenes.Form1.resources
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\obj\Debug\AnalisisImagenes.Properties.Resources.resources
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\obj\Debug\AnalisisImagenes.csproj.GenerateResource.Cache
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\obj\Debug\AnalisisImagenes.exe
+C:\Users\LIMBERG\Desktop\UMSA\Semestre\VIII Semestre\INF - 324\MOD III\3erParcial\AnalisisImagenes\AnalisisImagenes\obj\Debug\AnalisisImagenes.pdb
